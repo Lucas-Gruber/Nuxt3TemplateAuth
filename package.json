@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@prisma/client": "^4.7.1",
+    "bcrypt": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
+    "nuxt": "3.0.0",
+    "prisma": "^4.7.1",
+    "url-pattern": "^1.0.3"
+  }
+}
